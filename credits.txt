@@ -1,0 +1,11 @@
+== CREDITS ==
+
+Open Sans - https://fonts.google.com/specimen/Open+Sans
+
+LÖVE - https://github.com/love2d/love 
+
+loveframes - https://github.com/linux-man/LoveFrames
+
+LÖVE Helper Utilities for Massive Progression - https://github.com/HDictus/hump/tree/temp-master
+
+json.lua - https://github.com/rxi/json.lua

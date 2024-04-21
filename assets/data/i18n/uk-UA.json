@@ -1,0 +1,49 @@
+{
+    "name": "Українська (Ukrainian)",
+    "tokens": {
+        "loginmenu_title": "Увійти до акаунту Live Legends",
+        "loginmenu_loginframe_username-label": "Нікнейм",
+        "loginmenu_loginframe_password-label": "Пароль",
+        "loginmenu_loginframe_loginbtn": "Увійти",
+        "loginmenu_loginerrorframe_title": "Помилка",
+        "loginmenu_regbtn": "Реєстрація",
+        "loginmenu_changelang-title": "Змінити мову",
+        "loginmenu_serveroffline": "Сервер офлайн",
+        "loginmenu_versionmismatch-title": "Невідповідність версії клієнта гри",
+        "loginmenu_versionmismatch-desc-p1": "ваша версія гри може бути несумісна з цим сервером. Ваша версія: ",
+        "loginmenu_versionmismatch-desc-p2": " потрібна: ",
+        "loginmenu_usernotfound": "Користувача не знайдено",
+        "loginmenu_userbanned": "Користувач у бані",
+        "loginmenu_accountdetailswrong": "Пароль чи нікнейм неправильні",
+        "loginmenu_loginsuccess-title": "Live Legends",
+        "loginmenu_loginsuccess-desc": "Ласкаво просимо до Live Legends, ",
+        "loginmenu_loginframe-errorframe_desc": "Щось пішло не так...",
+
+        "registermenu_title": "Реєстрація акаунту Live Legends",
+        "registermenu_registerframe-username_label": "Нікнейм",
+        "registermenu_registerframe-password_label": "Пароль",
+        "registermenu_registerframe-regbtn_label": "Зареєструватися",
+        "registermenu_registerframe-errorframe_title": "Помилка",
+        "registermenu_registerframe-errorframe_desc": "Щось пішло не так...",
+        "registermenu_loginbtn-title": "Вхід",
+        "registermenu_serveroffline": "Сервер офлайн",     
+        "registermenu_versionmismatch-title": "Невідповідність версії клієнта гри",
+        "registermenu_registerframe-registersuccess_desc": "Акаунт створено. Ласкаво просимо до Live Legends!",
+        "registermenu_registerframe-errorframe_account_registered-desc": "Акаунт вже існує",
+
+        "registermenu_registerframe-errorframe_username_short-desc-p1": "Нікнейм дуже короткий (мін. ",
+        "registermenu_registerframe-errorframe_username_short-desc-p2": " символів)",
+        "registermenu_registerframe-errorframe_username_long-desc-p1": "Нікнейм дуже довгий (макс. ",
+        "registermenu_registerframe-errorframe_username_long-desc-p2": " символів)",
+        "registermenu_registerframe-errorframe_password_short-desc-p1": "Пароль дуже короткий (мін. ",
+        "registermenu_registerframe-errorframe_password_short-desc-p2": " символів)",
+        "registermenu_registerframe-errorframe_password_long-desc-p1": "Пароль дуже довгий (макс. ",
+        "registermenu_registerframe-errorframe_password_long-desc-p2": " символів)",
+        
+        "registermenu_versionmismatch-desc-p1": "ваша версія гри може бути несумісна з цим сервером. Ваша версія: ",
+        "registermenu_versionmismatch-desc-p2": " потрібна: ",
+
+        "selectservermenu_masterserveroffline-title": "Помилка головного серверу",
+        "selectservermenu_masterserveroffline-desc": "Головний сервер не відповіає, спробуйте ще раз"
+    }
+}

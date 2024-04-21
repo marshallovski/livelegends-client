@@ -1,0 +1,48 @@
+{
+    "name": "English (English)",
+    "tokens": {
+        "loginmenu_title": "Login to Live Legends account",
+        "loginmenu_loginframe_username-label": "Username",
+        "loginmenu_loginframe_password-label": "Password",
+        "loginmenu_loginframe_loginbtn": "Login",
+        "loginmenu_loginerrorframe_title": "Error",
+        "loginmenu_regbtn": "Register",
+        "loginmenu_changelang-title": "Change language",
+        "loginmenu_serveroffline": "Server is offline",
+        "loginmenu_versionmismatch-title": "Game client version mismatch",
+        "loginmenu_versionmismatch-desc-p1": "your version of the game may not be compatible with this server. Your version: ",
+        "loginmenu_versionmismatch-desc-p2": " required: ",
+        "loginmenu_usernotfound": "User is not found",
+        "loginmenu_userbanned": "User is banned",
+        "loginmenu_accountdetailswrong": "Username or password are wrong",
+        "loginmenu_loginsuccess-title": "Welcome back!",
+        "loginmenu_loginsuccess-desc": "Welcome to Live Legends, ",
+
+        "registermenu_title": "Create a new Live Legends account",
+        "registermenu_registerframe-username_label": "Username",
+        "registermenu_registerframe-password_label": "Password",
+        "registermenu_registerframe-regbtn_label": "Register",
+        "registermenu_registerframe-errorframe_title": "Error",
+        "registermenu_registerframe-errorframe_desc": "Something went wrong, try again",
+        "registermenu_loginbtn-title": "Login",
+        "registermenu_serveroffline": "Server is offline",
+        "registermenu_versionmismatch-title": "Game client version mismatch",
+        "registermenu_registerframe-registersuccess_desc": "Account was created. Welcome to Live Legends!",
+        "registermenu_registerframe-errorframe_account_registered-desc": "Account is already exists",
+        
+        "registermenu_registerframe-errorframe_username_short-desc-p1": "Username is too short (min. ",
+        "registermenu_registerframe-errorframe_username_short-desc-p2": " symbols)",
+        "registermenu_registerframe-errorframe_username_long-desc-p1": "Username is too long (max. ",
+        "registermenu_registerframe-errorframe_username_long-desc-p2": " symbols)",
+        "registermenu_registerframe-errorframe_password_short-desc-p1": "Password is too short (min. ",
+        "registermenu_registerframe-errorframe_password_short-desc-p2": " symbols)",
+        "registermenu_registerframe-errorframe_password_long-desc-p1": "Password is too long (max. ",
+        "registermenu_registerframe-errorframe_password_long-desc-p2": " symbols)",
+
+        "registermenu_versionmismatch-desc-p1": "your version may not be compatible with this server. Your client version: ",
+        "registermenu_versionmismatch-desc-p2": " required: ",
+
+        "selectservermenu_masterserveroffline-title": "Master-server error",
+        "selectservermenu_masterserveroffline-desc": "Master-server is offline, please try again later"
+    }
+}
